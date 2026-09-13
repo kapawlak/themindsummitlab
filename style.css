@@ -119,7 +119,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .hero-full .bg {
   position: absolute;
   inset: 0;
-  background: url("assets/climbing-redrock.jpg") center 30% / cover no-repeat;
+  background: url("assets/kelly-leading-redrock.jpg") center 30% / cover no-repeat;
 }
 .hero-full .shade {
   position: absolute;
