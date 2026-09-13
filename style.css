@@ -119,7 +119,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .hero-full .bg {
   position: absolute;
   inset: 0;
-  background: url("assets/kelly-leading-redrock.jpg") center 30% / cover no-repeat;
+  background: url("assets/climbing-redrock.jpg") center 30% / cover no-repeat;
 }
 .hero-full .shade {
   position: absolute;
@@ -191,6 +191,9 @@ h2 em { font-style: italic; color: var(--amber); }
 .two-col.start { align-items: start; }
 .rounded-img { border-radius: var(--radius); border: 1px solid var(--line); box-shadow: 0 24px 60px rgba(0,0,0,.45); }
 .photo-caption { margin-top: 14px; font-size: 13.5px; color: var(--paper-dim); font-style: italic; }
+.photo-break { padding: 8px 0 88px; }
+.photo-break .rounded-img { width: 100%; display: block; }
+.photo-break .photo-caption { text-align: center; }
 
 /* concept points */
 .points { display: grid; gap: 26px; margin-top: 8px; }
