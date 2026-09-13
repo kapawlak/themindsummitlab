@@ -84,6 +84,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   gap: 10px;
 }
 .brand:hover { text-decoration: none; }
+.brand img { height: 34px; width: auto; display: block; }
 .brand .dot {
   width: 11px; height: 11px; border-radius: 50%;
   background: var(--amber);

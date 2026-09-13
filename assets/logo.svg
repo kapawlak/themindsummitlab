@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 180" role="img" aria-label="The Mind Summit Lab">
+  <g>
+    <path d="M20,150 L70,45 L120,125 L170,45 L220,150" fill="none" stroke="#E9C46A" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="120" cy="30" r="12" fill="#E9C46A"/>
+  </g>
+  <text x="268" y="72" font-family="Futura, 'Avenir Next', 'DejaVu Sans', Verdana, sans-serif" font-size="30" letter-spacing="10" fill="#E9C46A">THE MIND</text>
+  <text x="266" y="138" font-family="Futura, 'Avenir Next', 'DejaVu Sans', Verdana, sans-serif" font-size="62" font-weight="700" letter-spacing="6" fill="#F4EAD8">SUMMIT LAB</text>
+</svg>
