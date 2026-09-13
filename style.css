@@ -202,7 +202,7 @@ h2 em { font-style: italic; color: var(--amber); }
 .film video { width: 100%; aspect-ratio: 9 / 16; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); box-shadow: 0 24px 60px rgba(0,0,0,.45); background: var(--ink-2); display: block; }
 .film figcaption { margin-top: 14px; color: var(--paper-dim); font-size: 15px; line-height: 1.55; }
 .film figcaption b { color: var(--paper); display: block; font-size: 17px; margin-bottom: 4px; font-weight: 600; }
-@media (max-width: 720px) { .film-grid { grid-template-columns: 1fr; max-width: 420px; } }
+@media (max-width: 720px) { .film-grid { grid-template-columns: 1fr; max-width: 300px; } }
 
 /* concept points */
 .points { display: grid; gap: 26px; margin-top: 8px; }
